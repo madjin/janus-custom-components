@@ -8,28 +8,28 @@ Check the [Reference](https://github.com/jbaicoianu/janusweb/wiki/Scripting-Supp
 ## [Media](https://github.com/madjin/janus-custom-components/blob/master/media/index.md)
 
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#audiosystem">
-  <img alt="audiosystem" target="_blank" src="https://i.imgur.com/hRG420Y.jpg" height="190" width="25%">
+  <img alt="audiosystem" target="_blank" src="https://i.imgur.com/hRG420Y.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#msf">
-  <img alt="msf" target="_blank" src="https://i.imgur.com/MLTw2cc.jpg" height="190" width="25%">
+  <img alt="msf" target="_blank" src="https://i.imgur.com/MLTw2cc.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#presentation">
-  <img alt="presentation" target="_blank" src="https://i.imgur.com/YwRPjE7.jpg" height="190" width="25%">
+  <img alt="presentation" target="_blank" src="https://i.imgur.com/YwRPjE7.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#projector">
-  <img alt="projector" target="_blank" src="https://i.imgur.com/LWTge35.jpg" height="190" width="25%">
+  <img alt="projector" target="_blank" src="https://i.imgur.com/LWTge35.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#recordplayer">
-  <img alt="recordplayer" target="_blank" src="https://i.imgur.com/gp57p35.jpg" height="190" width="25%">
+  <img alt="recordplayer" target="_blank" src="https://i.imgur.com/gp57p35.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#search">
-  <img alt="search" target="_blank" src="https://i.imgur.com/aX9JBBB.jpg" height="190" width="25%">
+  <img alt="search" target="_blank" src="https://i.imgur.com/aX9JBBB.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#stereosystem">
-  <img alt="stereosystem" target="_blank" src="https://i.imgur.com/e5myvoa.jpg" height="190" width="25%">
+  <img alt="stereosystem" target="_blank" src="https://i.imgur.com/e5myvoa.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#videoscreen">
-  <img alt="videoscreen" target="_blank" src="https://i.imgur.com/t5x8rxN.jpg" height="190" width="25%">
+  <img alt="videoscreen" target="_blank" src="https://i.imgur.com/t5x8rxN.jpg" height="190" width="24%">
 </a>
 
 ---
@@ -38,16 +38,16 @@ Check the [Reference](https://github.com/jbaicoianu/janusweb/wiki/Scripting-Supp
 
 
 <a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#fireworks">
-  <img alt="fireworks" target="_blank" src="https://i.imgur.com/u2CfwkY.gif" height="190" width="25%">
+  <img alt="fireworks" target="_blank" src="https://i.imgur.com/u2CfwkY.gif" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#forest">
-  <img alt="forest" target="_blank" src="https://i.imgur.com/AsXKahc.jpg" height="190" width="25%">
+  <img alt="forest" target="_blank" src="https://i.imgur.com/AsXKahc.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#tree">
-  <img alt="tree" target="_blank" src="https://i.imgur.com/039TxZW.jpg" height="190" width="25%">
+  <img alt="tree" target="_blank" src="https://i.imgur.com/039TxZW.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#water">
-  <img alt="water" target="_blank" src="https://i.imgur.com/iBCZi4q.jpg" height="190" width="25%">
+  <img alt="water" target="_blank" src="https://i.imgur.com/iBCZi4q.jpg" height="190" width="24%">
 </a>
 
 
@@ -65,16 +65,16 @@ Check the [Reference](https://github.com/jbaicoianu/janusweb/wiki/Scripting-Supp
 ## [Tools](https://github.com/madjin/janus-custom-components/blob/master/tools/index.md)
 
 <a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#changemachine">
-  <img alt="changemachine" target="_blank" src="https://i.imgur.com/Iq2gYXb.jpg" height="190" width="25%">
+  <img alt="changemachine" target="_blank" src="https://i.imgur.com/Iq2gYXb.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#streetlight">
-  <img alt="streetlight" target="_blank" src="https://i.imgur.com/m0ZRWvI.jpg" height="190" width="25%">
+  <img alt="streetlight" target="_blank" src="https://i.imgur.com/m0ZRWvI.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#torch">
-  <img alt="torch" target="_blank" src="https://i.imgur.com/jPwMkei.jpg" height="190" width="25%">
+  <img alt="torch" target="_blank" src="https://i.imgur.com/jPwMkei.jpg" height="190" width="24%">
 </a>
 <a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#vendingmachine">
-  <img alt="vendingmachine" target="_blank" src="https://i.imgur.com/XtkRRes.jpg" height="190" width="25%">
+  <img alt="vendingmachine" target="_blank" src="https://i.imgur.com/XtkRRes.jpg" height="190" width="24%">
 </a>
 
 ---
