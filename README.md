@@ -80,41 +80,29 @@ Check the [Reference](https://github.com/jbaicoianu/janusweb/wiki/Scripting-Supp
 ---
 
 ## [Utils](https://github.com/madjin/janus-custom-components/blob/master/utils/index.md)
-<!--
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="bulletedlist" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#instancedobject">
+  <img alt="instancedobject" target="_blank" src="https://i.imgur.com/KPt5TYH.jpg" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="impostergroup" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#layout">
+  <img alt="layout" target="_blank" src="https://i.imgur.com/e7Wm1A6.jpg" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="instancedobject" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#pushbutton">
+  <img alt="pushbutton" target="_blank" src="https://i.imgur.com/BuRhkkX.gif" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="layout" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#showcase">
+  <img alt="showcase" target="_blank" src="https://i.imgur.com/bolzZyW.jpg" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="objectfader" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#slider">
+  <img alt="slider" target="_blank" src="https://i.imgur.com/kA6eBS7.gif" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="objectpool" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#speechtext">
+  <img alt="speechtext" target="_blank" src="https://i.imgur.com/37acD67.jpg" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="pushbutton" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+<a href="https://github.com/madjin/janus-custom-components/blob/master/utils/index.md#teleporter">
+  <img alt="teleporter" target="_blank" src="https://i.imgur.com/xcRoKvQ.gif" height="190" width="24%">
 </a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="showcase" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
-</a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="slider" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
-</a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="speechtext" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
-</a>
-<a href="https://vesta.janusvr.com/bepis/mansion">
-  <img alt="teleporter" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
-</a>
--->
+
 ---
 
 ## [Weapons](https://github.com/madjin/janus-custom-components/blob/master/weapons/index.md)
