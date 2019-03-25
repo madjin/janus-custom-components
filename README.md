@@ -57,7 +57,7 @@ Check the [Reference](https://github.com/jbaicoianu/janusweb/wiki/Scripting-Supp
 
 
 <a href="https://github.com/madjin/janus-custom-components/blob/master/space/index.md#space">
-  <img alt="Space" target="_blank" src="https://i.imgur.com/dNwpMt6.jpg" height="400" width="90%">
+  <img alt="Space" target="_blank" src="https://i.imgur.com/dNwpMt6.jpg" height="400" width="100%">
 </a>
 
 ---
