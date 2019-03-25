@@ -5,14 +5,117 @@ A collection of various Janus custom components for developers to experiment wit
 Check the [Reference](https://github.com/jbaicoianu/janusweb/wiki/Scripting-Support-2.0) for more info.
 
 
-[Media](https://github.com/madjin/janus-custom-components/blob/master/media/index.md)
+## [Media](https://github.com/madjin/janus-custom-components/blob/master/media/index.md)
 
-[Scenery](https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md)
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#audiosystem">
+  <img alt="audiosystem" target="_blank" src="https://i.imgur.com/hRG420Y.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#msf">
+  <img alt="msf" target="_blank" src="https://i.imgur.com/MLTw2cc.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#presentation">
+  <img alt="presentation" target="_blank" src="https://i.imgur.com/YwRPjE7.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#projector">
+  <img alt="projector" target="_blank" src="https://i.imgur.com/LWTge35.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#recordplayer">
+  <img alt="recordplayer" target="_blank" src="https://i.imgur.com/gp57p35.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#search">
+  <img alt="search" target="_blank" src="https://i.imgur.com/aX9JBBB.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#stereosystem">
+  <img alt="stereosystem" target="_blank" src="https://i.imgur.com/e5myvoa.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/media/index.md#videoscreen">
+  <img alt="videoscreen" target="_blank" src="https://i.imgur.com/t5x8rxN.jpg" height="190" width="25%">
+</a>
 
-[Space](https://github.com/madjin/janus-custom-components/blob/master/space/index.md)
+---
 
-[Tools](https://github.com/madjin/janus-custom-components/blob/master/tools/index.md)
+## [Scenery](https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md)
 
-[Utils](https://github.com/madjin/janus-custom-components/blob/master/utils/index.md)
 
-[Weapons](https://github.com/madjin/janus-custom-components/blob/master/weapons/index.md)
+<a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#fireworks">
+  <img alt="fireworks" target="_blank" src="https://i.imgur.com/u2CfwkY.gif" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#forest">
+  <img alt="forest" target="_blank" src="https://i.imgur.com/AsXKahc.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#tree">
+  <img alt="tree" target="_blank" src="https://i.imgur.com/039TxZW.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/scenery/index.md#water">
+  <img alt="water" target="_blank" src="https://i.imgur.com/iBCZi4q.jpg" height="190" width="25%">
+</a>
+
+
+---
+
+## [Space](https://github.com/madjin/janus-custom-components/blob/master/space/index.md)
+
+
+<a href="https://github.com/madjin/janus-custom-components/blob/master/space/index.md#space">
+  <img alt="Space" target="_blank" src="https://i.imgur.com/dNwpMt6.jpg" height="300" width="100%">
+</a>
+
+---
+
+## [Tools](https://github.com/madjin/janus-custom-components/blob/master/tools/index.md)
+
+<a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#changemachine">
+  <img alt="changemachine" target="_blank" src="https://i.imgur.com/Iq2gYXb.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#streetlight">
+  <img alt="streetlight" target="_blank" src="https://i.imgur.com/m0ZRWvI.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#torch">
+  <img alt="torch" target="_blank" src="https://i.imgur.com/jPwMkei.jpg" height="190" width="25%">
+</a>
+<a href="https://github.com/madjin/janus-custom-components/blob/master/tools/index.md#vendingmachine">
+  <img alt="vendingmachine" target="_blank" src="https://i.imgur.com/XtkRRes.jpg" height="190" width="25%">
+</a>
+
+---
+
+## [Utils](https://github.com/madjin/janus-custom-components/blob/master/utils/index.md)
+<!--
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="bulletedlist" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="impostergroup" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="instancedobject" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="layout" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="objectfader" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="objectpool" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="pushbutton" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="showcase" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="slider" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="speechtext" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+<a href="https://vesta.janusvr.com/bepis/mansion">
+  <img alt="teleporter" target="_blank" src="https://imgur.com/pQAQ4yt.gif" height="190" width="32%">
+</a>
+-->
+---
+
+## [Weapons](https://github.com/madjin/janus-custom-components/blob/master/weapons/index.md)
+
